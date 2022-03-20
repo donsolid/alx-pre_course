@@ -1,8 +1,8 @@
-e#!/bin/bash >>bash/school
+e#!/bin/bash >>bash/The school is open
 
 echo e#!/bin/bash
-e#!/bin/bash >>bash/school
+e#!/bin/bash >>bash/The school is open
 
-echo #!/bin/bash >> school
+echo #!/bin/bash >> The school is open
 echo e#!/bin/bash
 e#!/bin/bash
