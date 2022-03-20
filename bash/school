@@ -1,0 +1,8 @@
+e#!/bin/bash >>bash/school
+
+echo e#!/bin/bash
+e#!/bin/bash >>bash/school
+
+echo #!/bin/bash >> school
+echo e#!/bin/bash
+e#!/bin/bash
